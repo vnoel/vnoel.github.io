@@ -33,5 +33,5 @@ I can be contacted at vincent dot noel at aero.obs-mip.fr.
 ### PhD mentoring
 
 * T. Vaillant de Guélis: Observations pour documenter les changements nuageux associés au réchauffement climatique, ongoing
-* A. Lacour, 2016: [https://tel.archives-ouvertes.fr/tel-01506120v2/](Les nuages du Groenland observes par CALIPSO). Océan, Atmosphère. Université Pierre et Marie Curie – Paris VI 
-* E. Martins, 2010: [http://www.lmd.polytechnique.fr/~intro/Files/2010-These_Martins.pdf](Les Cirrus subvisibles observés par CALIPSO : liens avec la circulation atmosphérique et la vapeur d’eau dans la haute troposphère). Currently at CNRM.
+* A. Lacour, 2016: [Les nuages du Groenland observes par CALIPSO](https://tel.archives-ouvertes.fr/tel-01506120v2/). Océan, Atmosphère. Université Pierre et Marie Curie – Paris VI 
+* E. Martins, 2010: [Les Cirrus subvisibles observés par CALIPSO : liens avec la circulation atmosphérique et la vapeur d’eau dans la haute troposphère](http://www.lmd.polytechnique.fr/~intro/Files/2010-These_Martins.pdf). Currently at CNRM.
