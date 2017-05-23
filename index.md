@@ -17,7 +17,7 @@ I can be contacted at vincent dot noel at aero.obs-mip.fr.
 
 ### Recent works
 
-* Noel, V, 2017: [Observer les nuages froids par lidar : de la microphysique aux tendances globales](https://www.dropbox.com/s/amiefx84lq12blw/201609%20HDR%20v4%20PDF.pdf?dl=1). Manuscrit de HDR.
+* Noel, V, 2017: [Observer les nuages froids par lidar : de la microphysique aux tendances globales](https://www.dropbox.com/s/amiefx84lq12blw/201609%20HDR%20v4%20PDF.pdf?dl=0). Manuscrit de HDR.
 * Lacour A., H. Chepfer, M. D. Shupe, N. B. Miller, V. Noel, J. Kay, D. D. Turner, R. Guzman, 2017: Greenland clouds observed in CALIPSO-GOCCP: comparison with ground-based Summit observations. J. Clim. in press
 * Guzman R., H. Chepfer, V. Noel, T. Vaillant de Guélis, J. E. Kay, P. Raberanto, G. Cesana, M. A. Vaughan, and D. M. Winker, 2017: [Direct atmosphere opacity observations from CALIPSO provide new constraints on cloud- radiation interactions](http://onlinelibrary.wiley.com/doi/10.1002/2016JD025946/abstract). J. Geophys. Res. Atmos., 122, 1066-1085, doi:10.1002/2016JD025946
 * Hoareau, C., Noel, V., Chepfer, H., Vidot, J., Chiriaco, M., Bastin, S., Reverdy, M. and Cesana, G. (2016), [Remote sensing ice supersaturation inside and near cirrus clouds: a case study in the subtropics](http://onlinelibrary.wiley.com/doi/10.1002/asl.714/abstract). Atmos. Sci. Lett., 17: 639–645. doi:10.1002/asl.714
