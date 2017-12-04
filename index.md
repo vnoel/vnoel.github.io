@@ -17,9 +17,9 @@ I can be contacted at vincent dot noel at aero.obs-mip.fr.
 
 ### Recent works
 
-* Winker, D., Chepfer, H., Noel, V. et al. : Observational Constraints on Cloud Feedbacks: The Role of Active Satellite Sensors. Surv Geophys (2017). https://doi.org/10.1007/s10712-017-9452-0
-* Vaillant de Guélis T., H. Chepfer, V. Noel, R. Guzman, D. Winker, R. Plougonven, 2017: Using space lidar observations to decompose Longwave Cloud Radiative Effect variations over the last decade, Geophys. Res. Let. 44, doi: 10.1002/2017GL074628
-* Vaillant de Guélis, T., Chepfer, H., Noel, V., Guzman, R., Dubuisson, P., Winker, D. M., and Kato, S.: The link between outgoing longwave radiation and the altitude at which a spaceborne lidar beam is fully attenuated, Atmos. Meas. Tech., 10, 4659-4685, https://doi.org/10.5194/amt-10-4659-2017, 2017
+* Winker, D., Chepfer, H., Noel, V. et al. : [Observational Constraints on Cloud Feedbacks: The Role of Active Satellite Sensors](https://doi.org/10.1007/s10712-017-9452-0). Surv Geophys (2017).  
+* Vaillant de Guélis T., H. Chepfer, V. Noel, R. Guzman, D. Winker, R. Plougonven, 2017: [Using space lidar observations to decompose Longwave Cloud Radiative Effect variations over the last decade](http://onlinelibrary.wiley.com/doi/10.1002/2017GL074628/abstract;jsessionid=89BA0B14C066CA6B021395D1D29BAF24.f03t03), Geophys. Res. Let. 44, doi: 10.1002/2017GL074628
+* Vaillant de Guélis, T., Chepfer, H., Noel, V., Guzman, R., Dubuisson, P., Winker, D. M., and Kato, S.: [The link between outgoing longwave radiation and the altitude at which a spaceborne lidar beam is fully attenuated](https://doi.org/10.5194/amt-10-4659-2017), Atmos. Meas. Tech., 10, 4659-4685, 2017
 * Noel, V, 2017: [Observer les nuages froids par lidar : de la microphysique aux tendances globales](https://www.dropbox.com/s/amiefx84lq12blw/201609%20HDR%20v4%20PDF.pdf?dl=0). Manuscrit de HDR.
 * Lacour A., H. Chepfer, M. D. Shupe, N. B. Miller, V. Noel, J. Kay, D. D. Turner, R. Guzman, 2017: Greenland clouds observed in CALIPSO-GOCCP: comparison with ground-based Summit observations. J. Clim. in press
 * Guzman R., H. Chepfer, V. Noel, T. Vaillant de Guélis, J. E. Kay, P. Raberanto, G. Cesana, M. A. Vaughan, and D. M. Winker, 2017: [Direct atmosphere opacity observations from CALIPSO provide new constraints on cloud- radiation interactions](http://onlinelibrary.wiley.com/doi/10.1002/2016JD025946/abstract). J. Geophys. Res. Atmos., 122, 1066-1085, doi:10.1002/2016JD025946
