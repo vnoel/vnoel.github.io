@@ -17,7 +17,8 @@ I can be contacted at vincent dot noel at aero.obs-mip.fr.
 
 ### Recent works
 
-* Chepfer H, V. Noel, M. Chiriaco, B. Wielicki, D. Winker, N. Loeb and R. Wood, 2018: The potential of multi-decades space-borne lidar to constrain cloud feedbacks, J. Geophys. Res. Atmos., in press.
+* Noel V., H. Chepfer, M. Chiriaco, J. Yorks, 2018: The diurnal cycle of cloud profiles over land and ocean between 51°S and 51°N, seen by the CATS spaceborne lidar from the International Space Station. Atmos. Chem. Phys, in press. https://doi.org/10.5194/acp-2018-214
+* Chepfer, H., Noel, V., Chiriaco, M., Wielicki, B., Winker, D., Loeb, N., & Wood, R. (2018). The potential of a multidecade spaceborne lidar record to constrain cloud feedback. Journal of Geophysical Research: Atmospheres, 123, 5433–5454. https://doi.org/10.1002/2017JD027742
 * Winker, D., Chepfer, H., Noel, V., X. Cai, 2017 : [Observational Constraints on Cloud Feedbacks: The Role of Active Satellite Sensors](https://doi.org/10.1007/s10712-017-9452-0). Surveys in Geophysics 38 (6), 1483-1508, doi:10.1007/s10712-017-9452-0.  
 * Vaillant de Guélis T., H. Chepfer, V. Noel, R. Guzman, D. Winker, R. Plougonven, 2017: [Using space lidar observations to decompose Longwave Cloud Radiative Effect variations over the last decade](http://onlinelibrary.wiley.com/doi/10.1002/2017GL074628/abstract;jsessionid=89BA0B14C066CA6B021395D1D29BAF24.f03t03), Geophys. Res. Let. 44, doi: 10.1002/2017GL074628
 * Vaillant de Guélis, T., Chepfer, H., Noel, V., Guzman, R., Dubuisson, P., Winker, D. M., and Kato, S.: [The link between outgoing longwave radiation and the altitude at which a spaceborne lidar beam is fully attenuated](https://doi.org/10.5194/amt-10-4659-2017), Atmos. Meas. Tech., 10, 4659-4685, 2017, doi:10.5194/amt-10-4659-2017
