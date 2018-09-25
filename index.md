@@ -17,6 +17,7 @@ I can be contacted at vincent dot noel at aero.obs-mip.fr.
 
 ### Recent works
 
+* Luebke, A., J. Delanoë, V. Noel, H. Chepfer, and B. Stevens, 2018: A Workshop on Remote Sensing of the Atmosphere in Anticipation of the EarthCARE Satellite Mission. Bull. Amer. Meteor. Soc. doi:10.1175/BAMS-D-18-0143.1, in press
 * Lacour A., H. Chepfer, N. Miller, M. Shupe, V. Noel, X. Fettweis, H. Gallee, J. Kay, R. Guzman,  J. Cole, 2018: How well are clouds simulated over Greenland in climate models? Consequences for the surface cloud radiative effect over the ice sheet. J. Climate, in press.
 * Noel, V., Chepfer, H., Chiriaco, M., and Yorks, J.: [The diurnal cycle of cloud profiles over land and ocean between 51° S and 51° N, seen by the CATS spaceborne lidar from the International Space Station](https://doi.org/10.5194/acp-18-9457-2018), Atmos. Chem. Phys., 18, 9457-9473, https://doi.org/10.5194/acp-18-9457-2018, 2018
 * Chepfer, H., Noel, V., Chiriaco, M., Wielicki, B., Winker, D., Loeb, N., & Wood, R. (2018). The potential of a multidecade spaceborne lidar record to constrain cloud feedback. Journal of Geophysical Research: Atmospheres, 123, 5433–5454. https://doi.org/10.1002/2017JD027742
