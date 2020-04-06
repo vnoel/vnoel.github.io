@@ -18,7 +18,7 @@ I can be contacted at vincent dot noel at aero.obs-mip.fr.
 ### Recent works
 
 * Dauhut, T., Noel, V., and Dion, I.-A.: The diurnal cycle of the clouds extending above the tropical tropopause observed by spaceborne lidar, Atmos. Chem. Phys., 20, 3921–3929, https://doi.org/10.5194/acp-20-3921-2020, 2020
-* Baray J.-L., A. Bah, P. Cacault, K. Sellegri, J.-M. Pichon, L. Deguillaume, N. Montoux, V. Noel, G. Seze, F. Gabarrot, G. Payen, V. Duflot: Cloud occurrence frequency at puy de Dôme (France) deduced from an automatic camera images analysis: Method, validation and comparisons with larger scale parameters. Atmospheres, in press, 2019.
+* Baray, J.-L.; Bah, A.; Cacault, P.; Sellegri, K.; Pichon, J.-M.; Deguillaume, L.; Montoux, N.; Noel, V.; Seze, G.; Gabarrot, F.; Payen, G.; Duflot, V. Cloud Occurrence Frequency at Puy de Dôme (France) Deduced from an Automatic Camera Image Analysis: Method, Validation, and Comparisons with Larger Scale Parameters. Atmosphere 2019, 10, 808. https://doi.org/10.3390/atmos10120808
 * Chepfer, H., Brogniez, H. & Noel, V. Diurnal variations of cloud and relative humidity profiles across the tropics. Sci Rep 9, 16045 (2019) doi:10.1038/s41598-019-52437-6
 * Vaillant de Guélis T., H. Chepfer, R. Guzman, M. Bonazzola, D. Winker, and V. Noel, 2018: Space lidar observations constrain longwave cloud feedback. Scientific Reports 8, 16570, doi:10.1038/s41598-018-34943-1
 * Luebke, A., J. Delanoë, V. Noel, H. Chepfer, and B. Stevens, 2018: A Workshop on Remote Sensing of the Atmosphere in Anticipation of the EarthCARE Satellite Mission. Bull. Amer. Meteor. Soc. doi:10.1175/BAMS-D-18-0143.1, in press
