@@ -17,6 +17,10 @@ I can be contacted at vincent dot noel at aero.obs-mip.fr.
 
 ### Recent works
 
+* Dauhut, T., Noel, V., and Dion, I.-A.: The diurnal cycle of the clouds extending above the tropical tropopause observed by spaceborne lidar, Atmos. Chem. Phys., 20, 3921–3929, https://doi.org/10.5194/acp-20-3921-2020, 2020
+* Baray J.-L., A. Bah, P. Cacault, K. Sellegri, J.-M. Pichon, L. Deguillaume, N. Montoux, V. Noel, G. Seze, F. Gabarrot, G. Payen, V. Duflot: Cloud occurrence frequency at puy de Dôme (France) deduced from an automatic camera images analysis: Method, validation and comparisons with larger scale parameters. Atmospheres, in press, 2019.
+* Chepfer, H., Brogniez, H. & Noel, V. Diurnal variations of cloud and relative humidity profiles across the tropics. Sci Rep 9, 16045 (2019) doi:10.1038/s41598-019-52437-6
+* Vaillant de Guélis T., H. Chepfer, R. Guzman, M. Bonazzola, D. Winker, and V. Noel, 2018: Space lidar observations constrain longwave cloud feedback. Scientific Reports 8, 16570, doi:10.1038/s41598-018-34943-1
 * Luebke, A., J. Delanoë, V. Noel, H. Chepfer, and B. Stevens, 2018: A Workshop on Remote Sensing of the Atmosphere in Anticipation of the EarthCARE Satellite Mission. Bull. Amer. Meteor. Soc. doi:10.1175/BAMS-D-18-0143.1, in press
 * Lacour A., H. Chepfer, N. Miller, M. Shupe, V. Noel, X. Fettweis, H. Gallee, J. Kay, R. Guzman,  J. Cole, 2018: How well are clouds simulated over Greenland in climate models? Consequences for the surface cloud radiative effect over the ice sheet. J. Climate, in press.
 * Noel, V., Chepfer, H., Chiriaco, M., and Yorks, J.: [The diurnal cycle of cloud profiles over land and ocean between 51° S and 51° N, seen by the CATS spaceborne lidar from the International Space Station](https://doi.org/10.5194/acp-18-9457-2018), Atmos. Chem. Phys., 18, 9457-9473, https://doi.org/10.5194/acp-18-9457-2018, 2018
