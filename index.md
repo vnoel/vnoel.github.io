@@ -48,6 +48,8 @@ I can be contacted at vincent dot noel at aero.obs-mip.fr.
 
 ### PhD mentoring
 
+* M. Leroux -- current
+* M. Perpina, 2021: [Evolution des propriétés des nuages opaques aux tropiques pendant le 21e siècle : impact de la dynamique atmosphérique, de la variabilité naturelle climatique et du forçage anthropique](https://theses.hal.science/tel-03602669v1). Université Toulouse 3 Paul Sabatier
 * T. Vaillant de Guélis, 2017: [Apport des observations par lidar spatial pour comprendre l'effet radiatif des nuages dans l'infrarouge](https://tel.archives-ouvertes.fr/tel-01760630). Université Pierre et Marie Curie – Paris VI
 * A. Lacour, 2016: [Les nuages du Groenland observes par CALIPSO](https://tel.archives-ouvertes.fr/tel-01506120v2/). Océan, Atmosphère. Université Pierre et Marie Curie – Paris VI 
 * E. Martins, 2010: [Les Cirrus subvisibles observés par CALIPSO : liens avec la circulation atmosphérique et la vapeur d’eau dans la haute troposphère](http://www.lmd.polytechnique.fr/~intro/Files/2010-These_Martins.pdf). Currently at CNRM.
