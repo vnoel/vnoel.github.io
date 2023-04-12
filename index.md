@@ -17,12 +17,12 @@ I can be contacted at vincent dot noel at aero.obs-mip.fr.
 
 ### Recent works
 
-* Feofilov, A., Chepfer, H., Noël, V., and Szczap, F.: ATLID Cloud Climate Product, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2022-1187, 2023
-* Tesche M., Noel, V.:  Locations for the best lidar view of mid-level and high clouds. Atmos. Meas. Tech. https://doi.org/10.5194/amt-2022-34, 2022
-* Feofilov, A., Chepfer, H., Noel, V., Guzman, R., Gindre, C., and Chiriaco, M.: Comparing scattering ratio products retrieved from ALADIN/Aeolus and CALIOP/CALIPSO observations: sensitivity, comparability, and temporal evolution, Atmos. Meas. Tech., https://doi.org/10.5194/amt-2021-96, 2022
+* Feofilov, A., Chepfer, H., Noël, V., and Szczap, F.: [ATLID Cloud Climate Product](https://doi.org/10.5194/egusphere-2022-1187), EGUsphere [preprint], 2023
+* Tesche M., Noel, V.:  [Locations for the best lidar view of mid-level and high clouds](https://doi.org/10.5194/amt-2022-34). Atmos. Meas. Tech., 2022
+* Feofilov, A., Chepfer, H., Noel, V., Guzman, R., Gindre, C., and Chiriaco, M.: [Comparing scattering ratio products retrieved from ALADIN/Aeolus and CALIOP/CALIPSO observations: sensitivity, comparability, and temporal evolution](https://doi.org/10.5194/amt-2021-96), Atmos. Meas. Tech., 2022
 * Perpina M., V. Noël, H. Chepfer, R. Guzman, A. Feofilov. Link Between Opaque Cloud Properties and Atmospheric Dynamics in Observations and Simulations of Current Climate in the Tropics, and Impact on Future Predictions. Journal of Geophysical Research: Atmospheres, American Geophysical Union, 126 (17), ⟨10.1029/2020JD033899⟩. ⟨hal-03370968⟩, 2021
-* Dauhut, T., Noel, V., and Dion, I.-A.: The diurnal cycle of the clouds extending above the tropical tropopause observed by spaceborne lidar, Atmos. Chem. Phys., 20, 3921–3929, https://doi.org/10.5194/acp-20-3921-2020, 2020
-* Baray, J.-L.; Bah, A.; Cacault, P.; Sellegri, K.; Pichon, J.-M.; Deguillaume, L.; Montoux, N.; Noel, V.; Seze, G.; Gabarrot, F.; Payen, G.; Duflot, V. Cloud Occurrence Frequency at Puy de Dôme (France) Deduced from an Automatic Camera Image Analysis: Method, Validation, and Comparisons with Larger Scale Parameters. Atmosphere 2019, 10, 808. https://doi.org/10.3390/atmos10120808
+* Dauhut, T., Noel, V., and Dion, I.-A.: [The diurnal cycle of the clouds extending above the tropical tropopause observed by spaceborne lidar](https://doi.org/10.5194/acp-20-3921-2020), Atmos. Chem. Phys., 20, 3921–3929, 2020
+* Baray, J.-L.; Bah, A.; Cacault, P.; Sellegri, K.; Pichon, J.-M.; Deguillaume, L.; Montoux, N.; Noel, V.; Seze, G.; Gabarrot, F.; Payen, G.; Duflot, V. [Cloud Occurrence Frequency at Puy de Dôme (France) Deduced from an Automatic Camera Image Analysis: Method, Validation, and Comparisons with Larger Scale Parameters](https://doi.org/10.3390/atmos10120808). Atmosphere 2019, 10, 808. 
 * Chepfer, H., Brogniez, H. & Noel, V. Diurnal variations of cloud and relative humidity profiles across the tropics. Sci Rep 9, 16045 (2019) doi:10.1038/s41598-019-52437-6
 * Vaillant de Guélis T., H. Chepfer, R. Guzman, M. Bonazzola, D. Winker, and V. Noel, 2018: Space lidar observations constrain longwave cloud feedback. Scientific Reports 8, 16570, doi:10.1038/s41598-018-34943-1
 * Luebke, A., J. Delanoë, V. Noel, H. Chepfer, and B. Stevens, 2018: A Workshop on Remote Sensing of the Atmosphere in Anticipation of the EarthCARE Satellite Mission. Bull. Amer. Meteor. Soc. doi:10.1175/BAMS-D-18-0143.1, in press
