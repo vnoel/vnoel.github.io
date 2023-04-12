@@ -9,14 +9,18 @@ I am now working at the [Laboratoire d'Aerologie](http://www.aero.obs-mip.fr) (C
 * Using results from these studies, provide General Circulation Models and Mesoscale simulations of climate evolution with somewhat more accurate models for cirrus clouds.
 
 * With [Julien Delanoe](http://www.latmos.ipsl.fr/index.php/fr/annuaire/2015?task=view), I am co-PI of the [EECLAT project](http://eeclat.ipsl.jussieu.fr), funded by CNES and CNRS/INSU.
-* I share some [scientific code](https://github.com/vnoel) on github, mostly for my own research use, but you could always find something interesting there. Who knows.
-* I contribute to the design and preparation of the future MESCAL space lidar mission.
+* I share some scientific code on [Github](https://github.com/vnoel) and the [IN2P3 Gitlab](https://gitlab.in2p3.fr/vincent.noel), mostly for my own research use, but you could always find something interesting there. Who knows.
+* I contribute to the design and preparation of upcoming space lidar missions.
 
 I can be contacted at vincent dot noel at aero.obs-mip.fr.
 
 
 ### Recent works
 
+* Feofilov, A., Chepfer, H., Noël, V., and Szczap, F.: ATLID Cloud Climate Product, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2022-1187, 2023
+* Tesche M., Noel, V.:  Locations for the best lidar view of mid-level and high clouds. Atmos. Meas. Tech. https://doi.org/10.5194/amt-2022-34, 2022
+* Feofilov, A., Chepfer, H., Noel, V., Guzman, R., Gindre, C., and Chiriaco, M.: Comparing scattering ratio products retrieved from ALADIN/Aeolus and CALIOP/CALIPSO observations: sensitivity, comparability, and temporal evolution, Atmos. Meas. Tech., https://doi.org/10.5194/amt-2021-96, 2022
+* Perpina M., V. Noël, H. Chepfer, R. Guzman, A. Feofilov. Link Between Opaque Cloud Properties and Atmospheric Dynamics in Observations and Simulations of Current Climate in the Tropics, and Impact on Future Predictions. Journal of Geophysical Research: Atmospheres, American Geophysical Union, 126 (17), ⟨10.1029/2020JD033899⟩. ⟨hal-03370968⟩, 2021
 * Dauhut, T., Noel, V., and Dion, I.-A.: The diurnal cycle of the clouds extending above the tropical tropopause observed by spaceborne lidar, Atmos. Chem. Phys., 20, 3921–3929, https://doi.org/10.5194/acp-20-3921-2020, 2020
 * Baray, J.-L.; Bah, A.; Cacault, P.; Sellegri, K.; Pichon, J.-M.; Deguillaume, L.; Montoux, N.; Noel, V.; Seze, G.; Gabarrot, F.; Payen, G.; Duflot, V. Cloud Occurrence Frequency at Puy de Dôme (France) Deduced from an Automatic Camera Image Analysis: Method, Validation, and Comparisons with Larger Scale Parameters. Atmosphere 2019, 10, 808. https://doi.org/10.3390/atmos10120808
 * Chepfer, H., Brogniez, H. & Noel, V. Diurnal variations of cloud and relative humidity profiles across the tropics. Sci Rep 9, 16045 (2019) doi:10.1038/s41598-019-52437-6
