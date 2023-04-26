@@ -17,6 +17,7 @@ I can be contacted at vincent dot noel at aero.obs-mip.fr.
 
 ### Recent works
 
+* Yorks, J. E., and Coauthors, 2023: A SmallSat Concept to Resolve Diurnal and Vertical Variations of Aerosols, Clouds, and Boundary Layer Height. Bulletin of the American Meteorological Society, 104, E815–E836, https://doi.org/10.1175/BAMS-D-21-0179.1.
 * Feofilov, A., Chepfer, H., Noël, V., and Szczap, F.: [ATLID Cloud Climate Product](https://doi.org/10.5194/egusphere-2022-1187), EGUsphere [preprint], 2023
 * Tesche M., Noel, V.:  [Locations for the best lidar view of mid-level and high clouds](https://doi.org/10.5194/amt-2022-34). Atmos. Meas. Tech., 2022
 * Feofilov, A., Chepfer, H., Noel, V., Guzman, R., Gindre, C., and Chiriaco, M.: [Comparing scattering ratio products retrieved from ALADIN/Aeolus and CALIOP/CALIPSO observations: sensitivity, comparability, and temporal evolution](https://doi.org/10.5194/amt-2021-96), Atmos. Meas. Tech., 2022
