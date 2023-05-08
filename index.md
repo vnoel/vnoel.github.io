@@ -13,7 +13,7 @@ I am now working at the [Laboratoire d'Aerologie](http://www.aero.obs-mip.fr) (C
 * I contribute to the design and preparation of upcoming space lidar missions.
 
 I can be contacted at vincent dot noel at aero.obs-mip.fr.
-I am also on [Mastodon](https://pouet.chapril.org/@vnoel rel="me")
+I am also on <a href='https://pouet.chapril.org/@vnoel' rel='me'>Mastodon</a>
 
 
 ### Recent works
