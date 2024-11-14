@@ -14,7 +14,7 @@ I am now working at the [Laboratoire d'Aerologie](http://www.aero.obs-mip.fr) (C
 
 I can be contacted at vincent dot noel at aero.obs-mip.fr.
 I am also on <a rel="me" href="https://pouet.chapril.org/@vnoel">Mastodon</a>
-<link href="https://pouet.chapril.org/@vnoel" rel="me">
+<link href="https://pouet.chapril.org/@vnoel" rel="me"> and <a href="https://bsky.app/profile/vnoel.bsky.social">Bluesky</a>
 
 
 ### Recent works
