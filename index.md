@@ -19,6 +19,7 @@ I am also on <a rel="me" href="https://pouet.chapril.org/@vnoel">Mastodon</a>
 
 ### Recent works
 
+* Mathilde Leroux, Vincent Noël. [Investigating long-term changes in polar stratospheric clouds above Antarctica during past decades: a temperature-based approach using spaceborne lidar detections](https://hal.science/hal-04781655). Atmospheric Chemistry and Physics, 2024, 24 (10), pp.6433 - 6454. ⟨10.5194/acp-24-6433-2024⟩.
 * Yorks, J. E., and Coauthors, 2023: [A SmallSat Concept to Resolve Diurnal and Vertical Variations of Aerosols, Clouds, and Boundary Layer Height](https://doi.org/10.1175/BAMS-D-21-0179.1). Bulletin of the American Meteorological Society, 104, E815–E836, doi:10.1175/BAMS-D-21-0179.1.
 * Feofilov, A., Chepfer, H., Noël, V., and Szczap, F.: [ATLID Cloud Climate Product](https://doi.org/10.5194/egusphere-2022-1187), EGUsphere [preprint], 2023
 * Tesche M., Noel, V.:  [Locations for the best lidar view of mid-level and high clouds](https://doi.org/10.5194/amt-2022-34). Atmos. Meas. Tech., 2022
